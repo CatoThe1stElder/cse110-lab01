@@ -9,7 +9,7 @@ First and foremost, I hope all is well. My name is **Edmund Leibert** and I am c
 - subdue
 - fracture
 
-rival states. With the explosion of data and the rapidly increasing complexity of this world, a new modern [quantitative skill set](####My-Skillset) is needed.
+rival states. With the explosion of data and the rapidly increasing complexity of this world, a new modern [quantitative skill set](# My-Skillset) is needed.
 
 #### My Skillset
 Having practiced over the years my skills in `R` and `Python` and `NoSql`, I am confident that my abilities can meet the needs of an entry position in this field. For instance, with my research under UC San Diego's linguistics [Professor Navida](https://cseweb.ucsd.edu/~npolikarpova/), I honed my skills in compiling and analyzing large data sets of phonological stems. Furthermore, with being a student of the Early Research Scholar Program, I gained the vital critical thinking skills and familiarity of drafting a research proposal and understanding the methodologies of research. 
