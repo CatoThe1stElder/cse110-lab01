@@ -1,6 +1,8 @@
 `Hello, Internet!`
 ## *Welcome to my humble digital abode.*
 
+![Image of Me](me-edited.png)
+
 > Hello to the fortunate person who has landed on this page!
 
 #### Preface
